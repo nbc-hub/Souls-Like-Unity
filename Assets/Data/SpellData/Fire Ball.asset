@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ec78e6d905f4304baf3d91084f1393d, type: 3}
+  m_Name: Fire Ball
+  m_EditorClassIdentifier: 
+  itemName: Fire Ball
+  itemIcon: {fileID: 0}
+  spellWarmUpFX: {fileID: 1857852141784182, guid: ad12f4fd20f6af24c9715b678bcbab0e, type: 3}
+  spellCastFX: {fileID: 7922565735799238133, guid: 09abc0e12d13e614eb493186216c4c91, type: 3}
+  spellAnimation: 'MageAttack1Start '
+  spellManaCost: 25
+  isFaithSpell: 0
+  isMagicSpell: 0
+  isPyroSpell: 1
+  spellDescription: 
+  baseDamage: 30
+  projectileForwardVelocity: 700
+  projectileUpVelocity: 200
+  projectileMass: 5
+  isEffectedByGravity: 1

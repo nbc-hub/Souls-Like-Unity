@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83fe8923ed7a18d4db33546b2e01264b, type: 3}
+  m_Name: Rapier Sword
+  m_EditorClassIdentifier: 
+  itemName: Rapier Sword
+  itemIcon: {fileID: 21300000, guid: 544c5bcf87b2c7b49856a24d453d3b4e, type: 3}
+  weaponModel: {fileID: 7768697231117981543, guid: cde16d90e001d3c45ab72ced464616c8, type: 3}
+  isUnarmed: 0
+  leftArmIdle: LeftCombatIdle
+  rigthArmIdle: RightCombatIdle
+  twoHandedIdle: Two_Handed_Idle1
+  LightAttack_1: SecondSwordLight1
+  LightAttack_2: SecondSwordLight3
+  twoHandedAttack_1: SecondSwordLight1
+  twoHandedAttack_2: SecondSwordLight1
+  HeavyAttack_1: SecondSwordHeavy1
+  baseStamina: 20
+  lightAttackMultiplier: 1
+  heavyAttackMultiplier: 2
+  isSpellCaster: 0
+  isFaithCaster: 0
+  isPyroCaster: 0
+  isMeleeWeapon: 1

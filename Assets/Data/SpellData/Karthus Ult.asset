@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26d6877a6c7dd9e4db714090976cde04, type: 3}
+  m_Name: Karthus Ult
+  m_EditorClassIdentifier: 
+  itemName: Karthus Ult
+  itemIcon: {fileID: 0}
+  spellWarmUpFX: {fileID: 0}
+  spellCastFX: {fileID: 0}
+  spellAnimation: KarthusUltAnimation2
+  spellManaCost: 50
+  isFaithSpell: 1
+  isMagicSpell: 0
+  isPyroSpell: 0
+  spellDescription: 
+  detectionLayer:
+    serializedVersion: 2
+    m_Bits: 512
+  detectionRadius: 20
+  enemyWarmUpFX: {fileID: 127287907536431029, guid: 2d9eb9574cf4b1e448667897a878865b, type: 3}
+  enemySpellCastFX: {fileID: 6160751335568118249, guid: cc0fedcb73d35a24c85f5167436c63bf, type: 3}

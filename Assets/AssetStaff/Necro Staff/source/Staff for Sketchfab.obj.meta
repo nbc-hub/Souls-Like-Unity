@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 524eb871920a0fc498f5f94c10fc0ec5
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff_Model_groups_Antler_Accessories_Crystal_Right_Right_Antler_AccessoriesMat
+    second: {fileID: 2100000, guid: aaddc1ae19d6b154b8186182ef80f8ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff_Model_groups_Antler_Accessories_Right_Antler_Accessories_Fang_Trinket_RightMat
+    second: {fileID: 2100000, guid: 17a615304c0ab6a47a0c12dceb125f89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff_Model_groups_Antler_Accessories_Right_Antler_Accessories_String_Right_AntlerMat
+    second: {fileID: 2100000, guid: 8c223ea446c2d494384d5bdbc45a31f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff_Model_groups_Large_Crystal_Left_Left_Antler_Accessories_Antler_AccessoriesMat
+    second: {fileID: 2100000, guid: 1cf19492bdb6b2b4f836c91d50dabd9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff_Model_groups_Left_Antler_Accessories_Antler_Accessories_Bone_TrinketMat
+    second: {fileID: 2100000, guid: d1328593a871bca40b40652554eb7ac3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff_Model_groups_Left_Antler_Accessories_Antler_Accessories_String_Left_AntlerMat
+    second: {fileID: 2100000, guid: f38833ba2808e6443971727c62f3cf46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff_Model_groups_SkullMat
+    second: {fileID: 2100000, guid: cbc1804ac427a1f47bbefb02e32d9bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff_Model_groups_Spine_Vertibrae1Mat
+    second: {fileID: 2100000, guid: 0e0533eb6af17444f87aa58c346cd9b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff_Model_groups_Spine_Vertibrae3Mat
+    second: {fileID: 2100000, guid: 70d87be3b310fc34eb52d7e267ca3246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff_Model_groups_Staff_Body_Staff_Main_Body_Base_CrystalMat
+    second: {fileID: 2100000, guid: fe3cf46baea61304da02ae034ecce755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff_Model_groups_Staff_Body_antlers_Staff_Body_Staff_Main_BodyMat
+    second: {fileID: 2100000, guid: c986f5dc2032bd947a226ab654c5bce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staff_Model_groups_Vertibrae2_SpineMat
+    second: {fileID: 2100000, guid: ee178ae45d905e04893e1cb511e1dfb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Large_Antler_ring2_pasted__Staff_Right_Accessories_pasted__Accessories_Piercings_Staff_Model_groupsMat
+    second: {fileID: 2100000, guid: 0ae6e1b88afabb049a63ecb245b2d7f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Staff_Right_Accessories_pasted__Accessories_Piercings_Staff_Model_groups_pasted__Eyebrow_Ring2Mat
+    second: {fileID: 2100000, guid: ad2081c8071c603409ee924317719470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Staff_Right_Accessories_pasted__Accessories_Piercings_Staff_Model_groups_pasted__Nose_Ring2Mat
+    second: {fileID: 2100000, guid: efa6bad712dab4d4f8f265df802c323a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Staff_Right_Accessories_pasted__Accessories_Piercings_Staff_Model_groups_pasted__Small_antler_ring2Mat
+    second: {fileID: 2100000, guid: d8e9f5dd12573004db4c112359adfdc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textureEditorIsolateSelectSet_Staff_Model_groups_Antler_Accessories_Right_Antler_Accessories_Fang_Trinket_RightMat
+    second: {fileID: 2100000, guid: 4381e9a2953991848a7667c110860ed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textureEditorIsolateSelectSet_pasted__Staff_Right_Accessories_pasted__Accessories_Piercings_Staff_Model_groups_pasted__Small_antler_ring2Mat
+    second: {fileID: 2100000, guid: ad1cb5e67f6eb3d4493db0f36e4071d3, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

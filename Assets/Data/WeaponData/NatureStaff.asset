@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83fe8923ed7a18d4db33546b2e01264b, type: 3}
+  m_Name: NatureStaff
+  m_EditorClassIdentifier: 
+  itemName: NatureStaff
+  itemIcon: {fileID: 0}
+  weaponModel: {fileID: 580269583489189912, guid: 3533e7992ed012e47a504f590654fd1a, type: 3}
+  isUnarmed: 0
+  baseDamage: 25
+  criticalDamageMultiplier: 4
+  physicalDamageAbsorption: 0
+  leftArmIdle: Left_Arm_Empty
+  rigthArmIdle: Right_Arm_Empty
+  twoHandedIdle: Both Arms Empty
+  LightAttack_1: RightLightAttack1
+  LightAttack_2: RightLightAttack2
+  twoHandedAttack_1: 
+  twoHandedAttack_2: 
+  HeavyAttack_1: RightHeavyAttack1
+  weapon_art: 
+  baseStamina: 0
+  lightAttackMultiplier: 0
+  heavyAttackMultiplier: 0
+  isSpellCaster: 0
+  isFaithCaster: 1
+  isPyroCaster: 0
+  isMeleeWeapon: 0
+  isShieldWeapon: 0

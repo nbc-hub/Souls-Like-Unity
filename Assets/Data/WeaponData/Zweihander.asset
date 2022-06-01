@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83fe8923ed7a18d4db33546b2e01264b, type: 3}
+  m_Name: Zweihander
+  m_EditorClassIdentifier: 
+  itemName: Zweihander
+  itemIcon: {fileID: 21300000, guid: 544c5bcf87b2c7b49856a24d453d3b4e, type: 3}
+  weaponModel: {fileID: 6598421355937723815, guid: 6efd1f9e2b1fdf44a9c7bf3687f19d03, type: 3}
+  isUnarmed: 0
+  leftArmIdle: LeftCombatIdle
+  rigthArmIdle: RightCombatIdle
+  twoHandedIdle: Two_Handed_Idle1
+  LightAttack_1: 
+  LightAttack_2: 
+  twoHandedAttack_1: Longsword_Light_Attack_1
+  twoHandedAttack_2: Longsword_Light_Attack_2
+  HeavyAttack_1: Longsword_Heavy_Attack_1
+  baseStamina: 20
+  lightAttackMultiplier: 2
+  heavyAttackMultiplier: 3
+  isSpellCaster: 0
+  isFaithCaster: 0
+  isPyroCaster: 0
+  isMeleeWeapon: 1
